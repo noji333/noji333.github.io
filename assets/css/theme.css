@@ -270,3 +270,12 @@ body[t="EVA Unit-01"] {
     --text-secondary: rgb(255, 255, 255);
     --box: 0, 148, 27;
 }
+
+body[t="four bfdi"] {
+    --background: url('https://storage.googleapis.com/imadejptr-v2/thumb/theme/the_real_eggdoggo.png');
+    --theme: rgb(10, 104, 255);
+    --theme-secondary: rgb(0, 110, 179);
+    --text: rgb(255, 255, 255);
+    --text-secondary: rgb(255, 255, 255);
+    --box: 0, 145, 255;
+}
